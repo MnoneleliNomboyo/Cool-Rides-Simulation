@@ -1,9 +1,10 @@
 🚗 Cool Rides Production Simulation
 
-https://img.shields.io/badge/C%2523-239120?style=for-the-badge&logo=c-sharp&logoColor=white
-https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white
-https://img.shields.io/badge/Windows%2520Forms-0078D4?style=for-the-badge&logo=windows&logoColor=white
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+![Windows Forms](https://img.shields.io/badge/Windows%20Forms-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 📌 Overview
 Cool Rides Production Simulation is a Windows Forms application that simulates an automobile manufacturing environment. The system manages two parallel assembly lines (cars and minibuses), a shared spraybooth, and a real‑time GUI that displays queue counts and status updates.
 
@@ -37,23 +38,8 @@ Interior trim	1 second	2 seconds
 Assembly	2 seconds	3 seconds
 Painting (spraybooth)	5 seconds	7 seconds
 🖥️ GUI Preview
-text
-+-------------------------------------------+
-|  Cool Rides                               |
-|                                           |
-|  ○ Black LUX1000      [Order]             |
-|  ○ White LUX1000                          |
-|  ○ Black MV500                            |
-|  ○ White MV500                            |
-|                                           |
-|  Car Queue: 2                             |
-|  Minibus Queue: 1                         |
-|                                           |
-|  Car Assembly Line: Assembling car...     |
-|  Minibus Assembly Line: Painting MV500... |
-|  Spraybooth: Queued: Black LUX1000        |
-+-------------------------------------------+
-(Actual GUI includes radio buttons, live status labels, and a responsive layout.)
+<img width="878" height="455" alt="image" src="https://github.com/user-attachments/assets/df3808d4-aeef-46f8-8c67-b0c941ca0a00" />
+
 
 📁 Project Structure
 text
