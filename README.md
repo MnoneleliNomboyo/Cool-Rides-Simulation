@@ -3,6 +3,8 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Windows Forms](https://img.shields.io/badge/Windows%20Forms-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+
+
 📌 Overview
 Cool Rides Production Simulation is a Windows Forms application that simulates an automobile manufacturing environment. The system manages two parallel assembly lines (cars and minibuses), a shared spraybooth, and a real‑time GUI that displays queue counts and status updates.
 
@@ -82,8 +84,11 @@ All timings match specifications
 👥 Group Members
 Name	Student Number
 Naledi Mabuya
+
 Anathi Silangwe: @AnathiSilangwe
+
 Mnoneleli Nomboyo: @MnoneleliNomboyo
+
 Lethabo Mothabeng: @Lethabo-joy
 
 📚 Technologies Used
