@@ -83,13 +83,13 @@ All timings match specifications
 
 👥 Group Members
 
-Naledi Mabuya
+<a href= "https://github.com/Naledi-star-maker">Naledi Mabuya</a>
 
-Anathi Silangwe: @AnathiSilangwe
+<a href="https://github.com/AnathiSilangwe">Anathi Silangwe</a>
 
-Mnoneleli Nomboyo: @MnoneleliNomboyo
+<a href="https://github.com/MnoneleliNomboyo">Mnoneleli Nomboyo</a>
 
-Lethabo Mothabeng: @Lethabo-joy
+<a href="https://github.com/Lethabo-joy">Lethabo Mothabeng </a>
 
 📚 Technologies Used
 C# – primary programming language
