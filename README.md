@@ -39,38 +39,6 @@ Painting (spraybooth)	5 seconds	7 seconds
 <img width="878" height="455" alt="image" src="https://github.com/user-attachments/assets/df3808d4-aeef-46f8-8c67-b0c941ca0a00" />
 
 
-📁 Project Structure
-text
-IRUD_Assignment_StartUp/
-├── AssemblyLines/
-│   ├── CarAssemblyLine.cs
-│   └── MinibusAssemblyLine.cs
-├── Commands/
-│   ├── IOrderCommand.cs
-│   ├── BuildCarCommand.cs
-│   └── BuildMinibusCommand.cs
-├── Factories/
-│   ├── IVehiclePartsFactory.cs
-│   ├── CarPartsFactory.cs
-│   ├── MinibusPartsFactory.cs
-│   ├── VehicleFactory.cs
-│   ├── CarFactory.cs
-│   └── MinibusFactory.cs
-├── Models/
-│   ├── Vehicle.cs
-│   ├── Car.cs
-│   └── Minibus.cs
-├── Parts/
-│   ├── Chassis.cs
-│   ├── Shell.cs
-│   ├── Wheel.cs
-│   └── Trim.cs
-├── Services/
-│   ├── HQ.cs
-│   └── Spraybooth.cs
-├── The_GuiInterface.cs
-├── The_GuiInterface.Designer.cs
-└── Program.cs
 🚀 Getting Started
 Prerequisites
 Visual Studio 2022 (or later)
@@ -80,11 +48,8 @@ Visual Studio 2022 (or later)
 Windows OS (for Windows Forms)
 
 Installation & Running
-Clone the repository
+Download the ZIP folder and extract the solution
 
-bash
-git clone https://github.com/yourusername/cool-rides-simulation.git
-cd cool-rides-simulation
 Open the solution
 Double‑click IRUD_Assignment_StartUp.sln (or open via Visual Studio)
 
@@ -113,26 +78,14 @@ Spraybooth processes only one vehicle at a time
 
 All timings match specifications
 
-📹 Video Demonstration
-A full video demonstration of the working system is included in the submission.
-It shows:
-
-Launching the application
-
-Placing concurrent orders for cars and minibuses
-
-Live status updates in the GUI
-
-Spraybooth bottleneck behaviour
-
-Completion of all orders
 
 👥 Group Members
 Name	Student Number
-[Your Name]	[Your Student #]
-[Team Member 2]	[Student #]
-[Team Member 3]	[Student #]
-[Team Member 4]	[Student #]
+Naledi Mabuya
+Anathi Silangwe: @AnathiSilangwe
+Mnoneleli Nomboyo: @MnoneleliNomboyo
+Lethabo Mothabeng: @Lethabo-joy
+
 📚 Technologies Used
 C# – primary programming language
 
@@ -140,7 +93,7 @@ C# – primary programming language
 
 Task Parallel Library (TPL) – threading and concurrency
 
-Mermaid – class diagram generation
+Draw.io – class diagram creation
 
 📄 Assignment Requirements Met
 Singleton pattern (spraybooth)
@@ -163,12 +116,7 @@ FIFO order execution per assembly line
 This project was created for academic purposes as part of the IRUD301 module.
 All rights reserved by the group members.
 
-🙏 Acknowledgements
-IRUD301 lecture slides (Singleton, Abstract Factory, Factory Method, Command)
 
-Microsoft documentation for Windows Forms and TPL
 
-draw.io for diagramming support
-
-Built with 💻 by Team Cool Rides
-Submission Date: [DD/MM/YYYY]
+Built with 💻 by Synchronized Strategy
+Submission Date: 18/05/2026
