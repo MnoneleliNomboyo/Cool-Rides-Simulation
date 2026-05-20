@@ -82,7 +82,7 @@ All timings match specifications
 
 
 👥 Group Members
-Name	Student Number
+
 Naledi Mabuya
 
 Anathi Silangwe: @AnathiSilangwe
